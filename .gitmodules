@@ -1,0 +1,4 @@
+[submodule "themoviedb"]
+	path = themoviedb
+	url = https://github.com/Leonardo-Ferreira/themoviedb.git
+	branch = master
